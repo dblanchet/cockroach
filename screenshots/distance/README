@@ -1,0 +1,7 @@
+Starting at yellow block distance, 3 shots are taken:
+
+ - Tile corner under the heels.
+ - Tile corner under the toes.
+ - Tile corner under the whole footstep.
+
+ Next shot serie is taken a tile further.

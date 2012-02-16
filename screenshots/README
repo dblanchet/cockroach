@@ -1,0 +1,29 @@
+Screenshots has been taken with the following configuration:
+
+ - Kinect is laying down on the floor.
+ - Kinect tilting is in middle position (no tilt).
+ - The floor is made of tiled fitted carpet.
+ - Each tile is about 50x50 cm.
+ - The Kinect webcam lense is placed on a tile corner.
+ - Two small yellow blocks are placed on tile corners too.
+
+From above, it looks like this:
+
+    |               |               |
+-   +   -   -   -   K <- Kinect -   +   -
+    |               |               |
+    |               |               |
+    |               |               |
+    |               |               |
+    |               |               |
+-   +   -   -   -   +   -   -   -   +   -
+    |               |               |
+    |               |               |
+    |               |               |
+    |               |               |
+    |               |               |
+-   L <- Yellow -   C   - Yellow -> R   -
+    |               |               |
+
+The K-C distance is about 1 meter and L-R distance is about 1 meter too.
+
